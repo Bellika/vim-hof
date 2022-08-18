@@ -82,7 +82,26 @@ To create a horizontal rule, use three or more asterisks (***), dashes (---), or
 ___
 
 
+# Userstory-10
 
+### Ordered List
+To create an ordered list, add line items with numbers followed by periods. The numbers don’t have to be in numerical order, but the list should start with the number one.
+<br/>
+
+1. First item
+2. Second item
+3. Third item
+1. Indented item
+2. Indented item
+4. Fourth item 
+
+### Unordered List
+To create an unordered list, add dashes (-), asterisks (*), or plus signs (+) in front of line items. Indent one or more items to create a nested list.
+
+- First item
+- Second item
+- Third item
+- Fourth item 
 
 
 
