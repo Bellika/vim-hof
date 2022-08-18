@@ -66,5 +66,6 @@ To add a table, use three or more hyphens (---) to create each column’s header
 # Userstory-7
 
 This is *bold*
+<br/>
 This is *italic*
 
