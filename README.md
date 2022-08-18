@@ -16,6 +16,18 @@ console.log(x)
 }
 ```
 
+#Userstory-2
+
+This is a Java-block made in MarkDown
+
+```java
+public class Main {
+public static void foo() {
+// Do something here
+}
+}
+```
+
 
 
 
