@@ -107,8 +107,12 @@ To create an unordered list, add dashes (-), asterisks (*), or plus signs (+) in
 # Userstory-11
 
 To create a blockquote, add a > in front of a paragraph.
+Blockquotes can contain multiple paragraphs. Add a > on the blank lines between the paragraphs.
 
 > This is a block
+>
 > Quote
+>
 > Crimpcity
+
 
