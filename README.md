@@ -120,9 +120,12 @@ Blockquotes can contain multiple paragraphs. Add a > on the blank lines between 
 
 ER-Diagram
 
+```mermaid
 erDiagram
 
 CUSTOMER ||--o{ ORDER : places
 ORDER ||--|{ LINE-ITEM : contains
 CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
+```
+
 
