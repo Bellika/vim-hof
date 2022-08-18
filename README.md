@@ -73,3 +73,21 @@ This is *italic*
 
 Gone camping! :tent: Be back soon.
 
+# Userstory-9 
+
+To create a horizontal rule, use three or more asterisks (***), dashes (---), or underscores (___) on a line by themselves.
+
+***
+---
+___
+
+
+
+
+
+
+
+
+
+
+
